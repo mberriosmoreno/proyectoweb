@@ -1,13 +1,13 @@
 body {
   font-family: Arial, sans-serif;
   color: #333;
-  background-color: #D3C4A8; /* Arena */
+  background-color: #ffffff; /* Blanco */
   margin: 0;
   padding: 0;
 }
 
 header {
-  background-color: #87CEEB; /* Azul Cielo */
+  background-color: #002060; /* Azul Imperial */
   color: #ffffff;
   padding: 20px;
   text-align: center;
@@ -16,7 +16,7 @@ header {
 nav ul {
   list-style-type: none;
   padding: 0;
-  background-color: #87CEEB; /* Azul Cielo */
+  background-color: #002060; /* Azul Imperial */
   margin: 0;
   overflow: hidden;
 }
@@ -41,18 +41,16 @@ nav ul li a:hover {
 
 section {
   padding: 20px;
-  background-color: #D3C4A8; /* Arena */
-  color: #333; /* Texto oscuro para mejor contraste */
 }
 
 section h2 {
-  color: #87CEEB; /* Azul Cielo */
+  color: #002060; /* Azul Imperial */
   border-bottom: 2px solid #DAA520; /* Dorado */
   padding-bottom: 10px;
 }
 
 footer {
-  background-color: #87CEEB; /* Azul Cielo */
+  background-color: #002060; /* Azul Imperial */
   color: #ffffff;
   text-align: center;
   padding: 10px;
