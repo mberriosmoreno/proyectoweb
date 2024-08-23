@@ -41,6 +41,8 @@ nav ul li a:hover {
 
 section {
   padding: 20px;
+  margin: 0 auto;
+  max-width: 1000px;
 }
 
 section h2 {
